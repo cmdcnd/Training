@@ -19,8 +19,12 @@ Free or low cost security training
 * https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps - Network Analysis Training  
 * https://github.com/haf/linux-intro-course - Linux Training  
 * https://adamtheautomator.com/tutorials/ - Learning Tutorials  
+* https://skills.github.com/ - Learn how to use GitHub  
+* https://learn.microsoft.com/en-us/training/browse/?roles=administrator%2Csecurity-engineer%2Csecurity-operations-analyst - Microsoft admin/security training  
+
 
 ### Endpoint Analysis  
+* https://docs.velociraptor.app/training/ - Velociraptor Training  
 * https://www.youtube.com/watch?v=Wuy_Pm3KaV8  
 * https://www.rsaconference.com/writable/presentations/file_upload/hta-t07r-license-to-kill-malware-hunting-with-the-sysinternals-tools_final.pdf  
 * https://blogs.technet.microsoft.com/clinth/2016/09/07/automating-the-sysinternals-hunting-malware-technique/  

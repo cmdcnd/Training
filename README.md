@@ -20,9 +20,6 @@ Free or low cost security training
 * https://adamtheautomator.com/tutorials/ - Learning Tutorials  
 * https://skills.github.com/ - Learn how to use GitHub  
 * https://learn.microsoft.com/en-us/training/browse/?roles=administrator%2Csecurity-engineer%2Csecurity-operations-analyst - Microsoft admin/security training  
-
-
-### Endpoint Analysis  
 * https://docs.velociraptor.app/training/ - Velociraptor Training  
 * https://www.youtube.com/watch?v=Wuy_Pm3KaV8  
 * https://www.rsaconference.com/writable/presentations/file_upload/hta-t07r-license-to-kill-malware-hunting-with-the-sysinternals-tools_final.pdf  

@@ -18,6 +18,7 @@ Free or low cost security training
 * https://kali.training/ - Kali Training  
 * https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps - Network Analysis Training  
 * https://github.com/haf/linux-intro-course - Linux Training  
+* https://adamtheautomator.com/tutorials/ - Learning Tutorials  
 
 ### Endpoint Analysis  
 * https://www.youtube.com/watch?v=Wuy_Pm3KaV8  

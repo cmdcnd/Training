@@ -18,3 +18,14 @@ Free or low cost security training
 * https://kali.training/ - Kali Training  
 * https://github.com/Security-Onion-Solutions/security-onion/wiki/Pcaps - Network Analysis Training  
 * https://github.com/haf/linux-intro-course - Linux Training  
+
+### Endpoint Analysis  
+* https://www.youtube.com/watch?v=Wuy_Pm3KaV8  
+* https://www.rsaconference.com/writable/presentations/file_upload/hta-t07r-license-to-kill-malware-hunting-with-the-sysinternals-tools_final.pdf  
+* https://blogs.technet.microsoft.com/clinth/2016/09/07/automating-the-sysinternals-hunting-malware-technique/  
+* https://channel9.msdn.com/Events/TechEd/NorthAmerica/2012/SIA302  
+* http://video.ch9.ms/sessions/teched/na/2014/DCIM-B368.pptx  
+* http://techgenix.com/hunt-down-kill-malware-sysinternals-tools-part1/  
+* http://techgenix.com/Hunt-Down-Kill-Malware-Sysinternals-Tools-Part2/  
+* http://techgenix.com/Hunt-Down-Kill-Malware-Sysinternals-Tools-Part3/  
+* http://www.itninja.com/blog/view/malware-hunting-with-sysinternals-tools  

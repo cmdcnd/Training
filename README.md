@@ -1,7 +1,5 @@
-# Training
-Free or low cost security training
-
-### Training - this is a collection of sites and tools that have good training  
+# Training - this is a collection of sites and tools that have good training  
+Free or low cost security training  
 * https://underthewire.tech/index.htm - PowerShell CTF  
 * https://overthewire.org/wargames/ - Linux/Web CTF  
 * https://cobaltstrike.com/training - Advanced Threat Tactic training videos  

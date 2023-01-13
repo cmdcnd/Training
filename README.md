@@ -10,7 +10,6 @@ Free or low cost security training
 * https://www.specterops.io/resources/research-and-development - Adversary Tactics - Red Team Operations  
 * https://github.com/pan-unit42/public_tools - Palo Alto open source tools  
 * https://github.com/PaloAltoNetworks/minemeld/wiki - Palo Alto Threat Intelligence processing framework  
-* http://www.powershellempire.com/ - Red Team threat emulation tool.  Empire is a pure PowerShell post-exploitation agent built on cryptologically-secure communications and a flexible architecture  
 * https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31 - Getting started in infosec  
 * https://www.codeacademy.com - Learn programming (python)  
 * http://adsecurity.org/ - Active Directory security and exploitation  

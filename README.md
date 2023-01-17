@@ -1,4 +1,4 @@
-# Training - this is a collection of sites
+# Training  
 Free or low cost security training  
 * https://underthewire.tech/index.htm - PowerShell CTF  
 * https://overthewire.org/wargames/ - Linux/Web CTF  

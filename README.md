@@ -30,3 +30,4 @@ Free or low cost security training
 * http://techgenix.com/Hunt-Down-Kill-Malware-Sysinternals-Tools-Part2/  
 * http://techgenix.com/Hunt-Down-Kill-Malware-Sysinternals-Tools-Part3/  
 * http://www.itninja.com/blog/view/malware-hunting-with-sysinternals-tools  
+* https://learn.microsoft.com/en-us/training/student-hub/certifications  - Microsoft Free Training/Certification
